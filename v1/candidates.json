@@ -290,8 +290,8 @@
     {
       "id": "glucksmann",
       "displayName": "Raphaël Glucksmann",
-      "party": "Place Publique",
-      "status": "expected",
+      "party": "Place publique – Parti socialiste",
+      "status": "declared",
       "colorHex": "#BE185D",
       "avatar": "avatar_glucksmann",
       "axes": {
@@ -322,16 +322,9 @@
       "matchingReady": true,
       "programStatus": "notPublished",
       "lastReviewedAt": "2026-07-10",
-      "statusVerifiedAt": "2026-09-22",
-      "statusSource": "https://www.publicsenat.fr/actualites/politique/primaire-socialiste-des-jeux-plus-ouverts-que-prevu",
-      "note": "Candidat à la primaire organisée par le PS, Place publique et la GRS en octobre 2026. Sa candidature à la présidentielle dépend du résultat. Dates exactes des deux tours divergentes selon les sources — à vérifier.",
-      "toVerify": true,
-      "primary": {
-        "name": "primaire socialiste",
-        "firstRoundDate": "2026-10-09",
-        "secondRoundDate": "2026-10-16",
-        "sourceURL": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026"
-      }
+      "statusVerifiedAt": "2026-10-12",
+      "statusSource": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+      "note": "Désigné candidat à l'issue de la primaire du Parti socialiste et de Place publique (vote en ligne du 9 au 11 octobre 2026) : 66,1 % dès le premier tour, devant Olivier Faure (14,5 %), Ségolène Royal (7,6 %), Emmanuel Maurel (5,9 %) et Jérôme Guedj (5,8 %). Sources concordantes : LCP et Public Sénat, 11/10/2026."
     },
     {
       "id": "tondelier",
@@ -369,13 +362,15 @@
       "matchingReady": true,
       "programStatus": "notPublished",
       "lastReviewedAt": "2026-07-10",
-      "statusVerifiedAt": "2026-09-22",
-      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "statusVerifiedAt": "2026-10-12",
+      "statusSource": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
       "primary": {
-        "name": "primaire de la gauche unitaire",
-        "firstRoundDate": "2026-10-11",
-        "sourceURL": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026"
-      }
+        "name": "consultation des adhérents des Écologistes",
+        "firstRoundDate": "2026-12-10",
+        "endDate": "2026-12-13",
+        "sourceURL": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+      },
+      "note": "La primaire de la gauche unitaire prévue le 11 octobre a été abandonnée par Les Écologistes le 21 septembre 2026. Leurs adhérents voteront du 10 au 13 décembre entre sa candidature et le ralliement à un autre candidat de gauche ; elle reste la candidate du parti d'ici là."
     },
     {
       "id": "ruffin",
@@ -413,15 +408,10 @@
       "matchingReady": true,
       "programStatus": "notPublished",
       "lastReviewedAt": "2026-07-10",
-      "statusVerifiedAt": "2026-09-22",
+      "statusVerifiedAt": "2026-10-12",
       "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-      "note": "Absent des listes de candidats déclarés consultées le 09/09/2026 (LCP, Touteleurope). Statut abaissé de declared à expected par prudence — à confirmer avant publication.",
-      "toVerify": true,
-      "primary": {
-        "name": "primaire de la gauche unitaire",
-        "firstRoundDate": "2026-10-11",
-        "sourceURL": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026"
-      }
+      "note": "La primaire de la gauche unitaire prévue le 11 octobre 2026, à laquelle il devait participer, a été abandonnée par Les Écologistes le 21 septembre. Aucun résultat ni annonce de maintien du scrutin n'a été trouvé au 12 octobre. Candidature à la présidentielle à confirmer.",
+      "toVerify": true
     },
     {
       "id": "melenchon",
